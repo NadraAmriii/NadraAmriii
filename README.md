@@ -44,16 +44,17 @@ I bridge the gap between **web applications** and **immersive 3D experiences**.
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nadra_AMRI&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nadra_AMRI&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NadraAmriii&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadraAmriii&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
 ### 🏆 Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nadra_AMRI&theme=tokyonight&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=NadraAmriii&theme=tokyonight&no-bg=true&margin-w=4" />
 </p>
 
 ---
+
 
 ### 📫 How to Contact Me
 <p align="left">
@@ -65,14 +66,11 @@ I bridge the gap between **web applications** and **immersive 3D experiences**.
 
 ### 💣 Bomberman Preview
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nadra_AMRI/Nadra_AMRI/output/bomberman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nadra_AMRI/Nadra_AMRI/output/bomberman-contribution-graph.svg">
-    <img alt="Bomberman Contribution Graph" src="https://raw.githubusercontent.com/Nadra_AMRI/Nadra_AMRI/output/bomberman-contribution-graph.svg">
-  </picture>
-</p>
 
-> 💡 Two bombers blast my contribution cells! This animation updates automatically every 24h
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NadraAmriii/NadraAmriii/output/bomberman-contribution-graph.svg" alt="Bomberman Graph" />
+</p>
+> 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=120&section=footer"/>

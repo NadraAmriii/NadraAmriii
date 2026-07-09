@@ -2,8 +2,8 @@ name: Generate profile images
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # every 12 hours
-  workflow_dispatch: # manual button
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -44,8 +44,6 @@ jobs:
           output_path: profile/trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-
-      # ---- 3. Bomberman ----
       - name: Generate Bomberman
         uses: abozanona/pacman-contribution-graph@main
         with:
@@ -59,7 +57,6 @@ jobs:
           cp dist/bomberman-contribution-graph-dark.svg profile/bomberman-dark.svg || true
           ls -lh profile/
 
-      # ---- 4. Commit ----
       - name: Commit images
         run: |
           git config user.name "github-actions[bot]"

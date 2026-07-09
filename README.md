@@ -74,4 +74,4 @@ I bridge the gap between **web applications** and **immersive 3D experiences**.
   <img src="https://raw.githubusercontent.com/NadraAmriii/NadraAmriii/output/bomberman-contribution-graph.svg" alt="Bomberman Graph" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&dark=120&section=footer"/>

@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=200&section=header&text=Hi%20there%20👋%20I'm%20Nadra%20Amri&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=200&section=header&text=Hi%20there%20👋%20I'm%20Nadra%20AMRI&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35" />
 
 
 ## About me

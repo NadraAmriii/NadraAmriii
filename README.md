@@ -49,10 +49,7 @@ I bridge the gap between **web applications** and **immersive 3D experiences**.
   <img src="https://raw.githubusercontent.com/NadraAmriii/NadraAmriii/main/profile/top-langs.svg" height="150"/>
 </p>
 
-### 🏆 Trophies
-<p align="center">
-  <img src="https://raw.githubusercontent.com/NadraAmriii/NadraAmriii/main/profile/trophy.svg" />
-</p>
+
 
 
 ---

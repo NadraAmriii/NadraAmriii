@@ -42,16 +42,19 @@ I bridge the gap between **web applications** and **immersive 3D experiences**.
 
 ---
 
+
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NadraAmriii&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadraAmriii&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://raw.githubusercontent.com/NadraAmriii/NadraAmriii/main/profile/stats.svg" height="150"/>
+  <img src="https://raw.githubusercontent.com/NadraAmriii/NadraAmriii/main/profile/top-langs.svg" height="150"/>
 </p>
 
 ### 🏆 Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NadraAmriii&theme=tokyonight&no-bg=true&margin-w=4" />
+  <img src="https://raw.githubusercontent.com/NadraAmriii/NadraAmriii/main/profile/trophy.svg" />
 </p>
+
 
 ---
 

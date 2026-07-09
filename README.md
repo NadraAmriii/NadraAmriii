@@ -46,7 +46,6 @@ I bridge the gap between **web applications** and **immersive 3D experiences**.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NadraAmriii/NadraAmriii/main/profile/stats.svg" height="150"/>
   <img src="https://raw.githubusercontent.com/NadraAmriii/NadraAmriii/main/profile/top-langs.svg" height="150"/>
 </p>
 
